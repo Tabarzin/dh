@@ -7,3 +7,10 @@
 - [Библиотека для открытой науки](https://lib-os.ru/)
 - [DH Cloud ВШЭ](https://dhcloud.org/)
 
+## Journals
+- [Journal of Digital History](https://journalofdigitalhistory.org/en)
+
+## Learn
+- [Open Educational Resources](https://teach.dariah.eu/)
+  
+
