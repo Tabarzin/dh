@@ -12,5 +12,8 @@
 
 ## Learn
 - [Open Educational Resources](https://teach.dariah.eu/)
+
+## Tools
+- [Science Publications Searcher](https://science.hyoo.ru/)
   
 
