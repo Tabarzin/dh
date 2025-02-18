@@ -26,5 +26,6 @@
 - [Dateno: data search service](https://dateno.io/)(https://dateno.io/)
 - [Coding the Past: data science, R, Python](https://www.codingthepast.com/)
 
-  
+## GIS & Maps
+- [DH GIS Projects](https://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/)
 
