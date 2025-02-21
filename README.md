@@ -37,6 +37,7 @@
 - [DH GIS Projects](https://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/)
 - [Old maps Online](https://www.oldmapsonline.org/en)
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
+- [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
 
 ## Worth Seeing
 - [The Pudding](https://pudding.cool/)
