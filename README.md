@@ -1,4 +1,4 @@
-# Resources on Digital Humanities (en/ru)
+# Resources on Digital Humanities [ en / ru ]
 
 ## Organizations & Initiatives
 - [The Alliance of Digital Humanities Organizations (ADHO)](https://www.digitalhumanities.org/)
@@ -17,6 +17,8 @@
 ## Educational Resources
 - [Open Educational Resources](https://teach.dariah.eu/)
 - [Textbooks](https://cmu-lib.github.io/dhlg/global-resources/educational-resources/textbooks/)
+- [Mattingly, William. Introduction to Python for Digital Humanities, 2022](https://python-textbook.pythonhumanities.com/)
+- [Computational Thinking and Programming](https://comp-think.github.io/)
 
 
 ## Tools
