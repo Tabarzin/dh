@@ -16,6 +16,7 @@
 - [DSH or Digital Scholarship in the Humanities ](https://academic.oup.com/dsh)
 - [DHQ](https://digitalhumanities.org/dhq/)
 - [Digital Studies](https://www.digitalstudies.org)
+- [«Цифровые гуманитарные исследования»](https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/)
 
 ## Educational Resources
 - [Open Educational Resources](https://teach.dariah.eu/)
