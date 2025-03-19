@@ -13,6 +13,9 @@
 
 ## Journals
 - [Journal of Digital History](https://journalofdigitalhistory.org/en)
+- [DSH or Digital Scholarship in the Humanities ](https://academic.oup.com/dsh)
+- [DHQ](https://digitalhumanities.org/dhq/)
+- [Digital Studies](https://www.digitalstudies.org)
 
 ## Educational Resources
 - [Open Educational Resources](https://teach.dariah.eu/)
