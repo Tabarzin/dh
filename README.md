@@ -17,6 +17,7 @@
 - [DHQ](https://digitalhumanities.org/dhq/)
 - [Digital Studies](https://www.digitalstudies.org)
 - [«Цифровые гуманитарные исследования»](https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/)
+- [The Journal of Historical Network Research](https://jhnr.net/)
 
 ## Educational Resources
 - [Open Educational Resources](https://teach.dariah.eu/)
