@@ -7,6 +7,7 @@
 - [Digital Humanities Research Institute (DHRI) / Институт цифровых гуманитарных исследований (ИЦГИ)](http://dhri.ru/)
 - [Библиотека для открытой науки](https://lib-os.ru/)
 - [DH Cloud ВШЭ](https://dhcloud.org/)
+- [CDH @ Princeton](https://cdh.princeton.edu/)
 
 ## Awesome lists
 - [Список публикаций и выступлений преподавателей магистратуры НИУ ВШЭ](https://github.com/nevmenandr/awesome-dh-hse/)
