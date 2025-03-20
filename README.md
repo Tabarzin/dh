@@ -52,3 +52,7 @@
 ## Worth Seeing
 - [The Pudding](https://pudding.cool/)
 
+## Video
+- [Current Trends in Digital East Asian Studies, Wednesday 31 March 2021](https://www.youtube.com/watch?v=51D3C-3XHZQ)
+- [«Цифровой поворот» в современном востоковедении](https://www.youtube.com/watch?v=jLu5JUU0LhE)
+
