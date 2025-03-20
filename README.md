@@ -45,6 +45,9 @@
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
 
+## Networks
+- [Demystifying Networks, Parts I & II](https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
+
 ## Worth Seeing
 - [The Pudding](https://pudding.cool/)
 
