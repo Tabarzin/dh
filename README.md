@@ -8,6 +8,7 @@
 - [Библиотека для открытой науки](https://lib-os.ru/)
 - [DH Cloud ВШЭ](https://dhcloud.org/)
 - [CDH @ Princeton](https://cdh.princeton.edu/)
+- [The Alliance of Digital Humanities Organizations (ADHO)](https://adho.org/)
 
 ## Awesome Lists
 - [Список публикаций и выступлений преподавателей магистратуры НИУ ВШЭ](https://github.com/nevmenandr/awesome-dh-hse/)
