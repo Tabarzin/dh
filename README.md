@@ -9,8 +9,10 @@
 - [DH Cloud ВШЭ](https://dhcloud.org/)
 - [CDH @ Princeton](https://cdh.princeton.edu/)
 
-## Awesome lists
+## Awesome Lists
 - [Список публикаций и выступлений преподавателей магистратуры НИУ ВШЭ](https://github.com/nevmenandr/awesome-dh-hse/)
+- [Awesome Digital History](https://github.com/maehr/awesome-digital-history)
+- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 
 ## Journals
 - [Journal of Digital History](https://journalofdigitalhistory.org/en)
