@@ -52,6 +52,7 @@
 
 ## Digital History
 - [Digital History. Book](https://chnm.gmu.edu/digitalhistory/index.php.html)
+- [Death by Numbers](https://deathbynumbers.org/)
 
 ## Networks
 - [Demystifying Networks, Parts I & II](https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
