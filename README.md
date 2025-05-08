@@ -18,6 +18,7 @@
 - [Библиотека клуба любителей интернета и общества](http://clubforinternet.net/library)
 - [Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list)
 - [David M. Berry Publications](https://profiles.sussex.ac.uk/p125219-david-berry/publications)
+- [stunlaw. philosophy and critique for a digital age](https://stunlaw.blogspot.com/)
 
 ## Journals
 - [Journal of Digital History](https://journalofdigitalhistory.org/en)
