@@ -10,10 +10,13 @@
 - [CDH @ Princeton](https://cdh.princeton.edu/)
 - [The Alliance of Digital Humanities Organizations (ADHO)](https://adho.org/)
 
-## Awesome Lists
+## Awesome Lists & Libraries
 - [Список публикаций и выступлений преподавателей магистратуры НИУ ВШЭ](https://github.com/nevmenandr/awesome-dh-hse/)
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history)
 - [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
+- [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
+- [Библиотека клуба любителей интернета и общества](http://clubforinternet.net/library)
+- [Critical Dataset Studies Reading List](https://knowingmachines.org/reading-list)
 
 ## Journals
 - [Journal of Digital History](https://journalofdigitalhistory.org/en)
