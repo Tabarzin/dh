@@ -29,6 +29,7 @@
 - [The Journal of Historical Network Research](https://jhnr.net/)
 - [International Journal of Digital Humanities](https://link.springer.com/journal/42803)
 - [Asiascape: Digital Asia](https://brill.com/view/journals/dias/dias-overview.xml)
+- [International Journal of Humanities and Arts Computing](https://www.euppublishing.com/journal/ijhac)
 
 ## Educational Resources
 - [Open Educational Resources](https://teach.dariah.eu/)
