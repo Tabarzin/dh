@@ -20,6 +20,7 @@
 - [David M. Berry Publications](https://profiles.sussex.ac.uk/p125219-david-berry/publications)
 - [stunlaw. philosophy and critique for a digital age](https://stunlaw.blogspot.com/)
 - [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/)
+- [The Digital Humanities Course Registry](https://dhcr.clarin-dariah.eu/)
 
 ## Journals
 - [Journal of Digital History](https://journalofdigitalhistory.org/en)
