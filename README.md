@@ -66,6 +66,7 @@
 ## Digital History
 - [Digital History. Book](https://chnm.gmu.edu/digitalhistory/index.php.html)
 - [Death by Numbers](https://deathbynumbers.org/)
+- [The Dangerous Art of Text Mining A Methodology for Digital History](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905#)
 
 ## Networks
 - [Demystifying Networks, Parts I & II](https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
