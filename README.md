@@ -44,6 +44,7 @@
 - [OpenRefine: a powerful free, open source tool for working with messy data](https://openrefine.org/)
 - [Tableau Public. A free platform to create data visualizations online](https://public.tableau.com/)
 - [p5.js](https://p5js.org/)
+- [dedalo](https://dedalo.dev/) A comprehensive tool designed for the management of any type of Cultural Heritage
 
 ## Data
 - [Dateno: data search service](https://dateno.io/)(https://dateno.io/)
