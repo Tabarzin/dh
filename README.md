@@ -56,6 +56,9 @@
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
 
+## Digital Asian Studies
+- [Digital Resources and Projects on East Asia](https://prcurtis.com/DH/resources/)
+
 ## Digital History
 - [Digital History. Book](https://chnm.gmu.edu/digitalhistory/index.php.html)
 - [Death by Numbers](https://deathbynumbers.org/)
