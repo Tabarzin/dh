@@ -48,6 +48,11 @@
 - [p5.js](https://p5js.org/)
 - [dedalo](https://dedalo.dev/) A comprehensive tool designed for the management of any type of Cultural Heritage
 - [The MITRA project](https://dharmamitra.org/)
+- [N8N Workflows Catalog](https://github.com/nusquama/n8nworkflows.xyz)
+
+## AI Tools
+- [Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [FutureTools](https://www.futuretools.io/)
 
 ## Data
 - [Dateno: data search service](https://dateno.io/)(https://dateno.io/)
@@ -59,6 +64,7 @@
 - [Old maps Online](https://www.oldmapsonline.org/en)
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
+- [Route decoding methodology](https://m-d.me/notes/route-mapping-methodology-en/)
 
 ## Digital Asian Studies
 - [Digital Resources and Projects on East Asia](https://prcurtis.com/DH/resources/)
