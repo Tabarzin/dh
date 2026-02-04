@@ -64,7 +64,7 @@
 - [Old maps Online](https://www.oldmapsonline.org/en)
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
-- [Route decoding methodology](https://m-d.me/notes/route-mapping-methodology-en/)
+- [Методика восстановления исторического маршрута путешествия](https://m-d.me/notes/route-mapping-methodology/)
 
 ## Digital Asian Studies
 - [Digital Resources and Projects on East Asia](https://prcurtis.com/DH/resources/)
