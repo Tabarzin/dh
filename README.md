@@ -65,6 +65,7 @@
 - [Map your data with QGIS](https://github.com/miriamposner/qgis/blob/main/qgis/map_your_data_with_qgis.md)
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
 - [Методика восстановления исторического маршрута путешествия](https://m-d.me/notes/route-mapping-methodology/)
+- [RustGIS](https://web.rustgis.app/)
 
 ## Digital Asian Studies
 - [Digital Resources and Projects on East Asia](https://prcurtis.com/DH/resources/)
