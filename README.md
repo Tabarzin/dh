@@ -66,6 +66,7 @@
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/)
 - [Методика восстановления исторического маршрута путешествия](https://m-d.me/notes/route-mapping-methodology/)
 - [RustGIS](https://web.rustgis.app/)
+- [Cartography Guide](https://www.axismaps.com/guide)
 
 ## Digital Asian Studies
 - [Digital Resources and Projects on East Asia](https://prcurtis.com/DH/resources/)
